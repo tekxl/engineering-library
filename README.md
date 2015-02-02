@@ -185,6 +185,9 @@ Ruby
 
 [Ruby API | Everyone |](http://apionrails.icalialabs.com/book)
 
+[Device, authentication solution for Rails](https://github.com/plataformatec/devise)
+
+[Capybara for Ruby tests](https://github.com/jnicklas/capybara)
 SQL
 ----
 [Une amorce sur SQL | Beginner |](https://leanpub.com/aprimeronsql/read) 
