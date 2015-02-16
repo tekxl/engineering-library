@@ -14,7 +14,7 @@ AngularJS (prerequisites: JavaScript)
 
 [AngularJS en 60 min | Beginner |](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) 
 
-[Recettes aveC Angular.js | Beginner |](https://eanpub.com/Recettes-de-angulaire-js) 
+[Recipes with Angular.js | Beginner |](https://leanpub.com/recipes-with-angular-js) 
 
 [lires AngularJS Guide du Développeur | Everyone |](https://docs.angularjs.org/guidedocs.angularjs.org/guideAngularJS) 
 
