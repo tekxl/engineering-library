@@ -70,7 +70,7 @@ Git
 
 Gulp (prerequisites: JavaScript)
 ---
-[Gulp: the modern frontend factory | Beginner |](http://david.nowinsky.net/gulp-book/) 
+[LEARNING GULP | Beginner |](http://hmphry.com/gulp/) 
 
 [Gulp Documentation | Everyone |](https://github.com/gulpjs/gulp/blob/master/docs/README.md) 
 
