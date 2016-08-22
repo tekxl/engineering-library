@@ -203,3 +203,7 @@ SQL
 Swift
 ----
 [Swift | Everyone |](http://www.skilledup.com/learn/programming/swift-online-courses-bootcamps)
+
+Offline Storage Javascript API
+------------------------------
+[Offline Storage for Progressive Web | Everyone Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.nzf5fp4ay)
