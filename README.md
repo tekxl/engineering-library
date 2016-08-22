@@ -181,6 +181,8 @@ Ruby
 ---
 [Learn the basics of the Ruby language | Beginner |](http://tryruby.org)
 
+[Learn Ruby the Hard Way | Beginner |](https://learnrubythehardway.org/book/)
+
 [Learn Ruby | Everyone |](https://rubymonk.com)
 
 [Ruby documentation | Everyone |](http://ruby-doc.org/)
