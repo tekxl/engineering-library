@@ -1,6 +1,10 @@
 Library
 ======
 
+Computer Science
+---------------------
+[Bottom Up Computer Science](https://www.bottomupcs.com/)
+
 Android (prerequisites: Java)
 ----------------------------------------
 
