@@ -5,6 +5,10 @@ Computer Science
 ---------------------
 [Bottom Up Computer Science](https://www.bottomupcs.com/)
 
+Bash
+-------
+[Bash Academy](http://www.bash.academy/)
+
 Android (prerequisites: Java)
 ----------------------------------------
 
