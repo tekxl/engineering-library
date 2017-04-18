@@ -16,7 +16,13 @@ Android (prerequisites: Java)
 
 [Documentation Android developers | Everyone |](https://developer.android.com/develop/index.html)
 
-AngularJS (prerequisites: JavaScript)
+AngularJS 2 (prerequisites: JavaScript, TypeScript, ES6)
+---------------------------------------------------
+[Angular 2 doc](https://angular.io)
+
+[Angular 2 training](https://angular-2-training-book.rangle.io)
+
+AngularJS 1 (prerequisites: JavaScript)
 ---------------------------------------------------
 [Tutoriel AngularJS | Beginner |](https://docs.angularjs.org/tutorial)
 
