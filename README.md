@@ -40,6 +40,10 @@ ReactJS
 -------------
 [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 
+TypeScript
+------------
+[TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
+
 CSS
 -----
 [CSS Developer Guide | Everyone |](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
